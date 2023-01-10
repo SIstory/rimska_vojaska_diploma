@@ -39,22 +39,22 @@
                 <edition>Editon 1.0</edition>
             </editionStmt>
             <publicationStmt>
-                <publisher>Inštitut za novejšo zgodovino</publisher>
-                <date when="2022">2022</date>
+                <publisher>Inštitut za novejšo zgodovino</publisher>                
+                <pubPlace>Ljubljana, <date when="2022">2022</date></pubPlace>
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
-                    <p>To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+                    <p style="text-align:justify;">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
                         Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                     </p>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <p style="text-align:justify;"/>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Razstava</p>
+                <p style="text-align:justify;">Razstava</p>
             </projectDesc>
         </encodingDesc>
     </teiHeader>
@@ -67,8 +67,12 @@
                         100-letnici Filozofske fakultete in Oddelka za zgodovino</titlePart>
                 </docTitle>
                 <docAuthor/>
+                <graphic url="exh01-rimDipl-pano3-image16-cover.jpg"></graphic>
                 <docDate/>
-                <docImprint/>
+                <docImprint>
+                    <pubPlace>Ljubljana</pubPlace>
+                    <docDate when="2022">2022</docDate>                    
+                </docImprint>
             </titlePage>
             <divGen type="cip" xml:id="cip">
                 <head>Kolofon</head>
@@ -85,32 +89,32 @@
         </front>
         <body>
             <div type="chapter" xml:id="exh01-ch01">
-                <head>Prisotnost rimske vojske na Ptuju</head>
-                <p>Kmalu po rimski zasedbi v zadnjih desetletjih 1. stol. pr. Kr. je na prostoru
+                <head rend="color(#ef3b39)">Prisotnost rimske vojske na Ptuju</head>
+                <p style="text-align:justify;">Kmalu po rimski zasedbi v zadnjih desetletjih 1. stol. pr. Kr. je na prostoru
                     današnjega Ptuja nastal legijski tabor. V njem je bila najprej nameščena 8.
-                    Avgustova legija (legio VIII Augusta), ki je prispela v času velikega
+                    Avgustova legija (<hi rend="italic">legio VIII Augusta</hi>), ki je prispela v času velikega
                     panonsko-dalmatinskega upora (6–9 po Kr.). O njeni prisotnosti na Ptuju pričajo
                     trije napisi aktivnih vojakov in en veteranski. Sredi 1. stoletja je to legijo
-                    zamenjala 13. Dvojna (legio XIII Gemina), ki je prišla iz Vindonise v Švici.
+                    zamenjala 13. Dvojna (<hi rend="italic">legio XIII Gemina</hi>), ki je prišla iz Vindonise v Švici.
                     Poleg napisov njenih vojakov in veteranov je bilo na Ptuju odkritih tudi več
-                    opek z njenim žigom (LEG(ionis) XIII GE(minae)), ki kažejo na njeno intenzivno
+                    opek z njenim žigom (<hi rend="italic">LEG(ionis) XIII GE(minae)</hi>), ki kažejo na njeno intenzivno
                     gospodarsko in gradbeno dejavnost. Odkrili so jih tudi na opekah, iz katerih je
                     bil zgrajen vodovod iz ok. 20 km oddaljenega Frama.</p>
-                <p>Kot poroča Tacit, je avgusta leta 69 v zimskem taboru 13. Dvojne legije v
+                <p style="text-align:justify;">Kot poroča Tacit, je avgusta leta 69 v zimskem taboru 13. Dvojne legije v
                     Petovioni potekal posvet poveljnikov panonskih legij, na katerem so kot novega
                     cesarja podprli Vespazijana. Posvet je vodil legat VII. Galbove legije iz
                     Karnunta (dan. Petronell na Donavi) Antonij Prim, ki se je z odločnim nastopom
                     zavzel za takojšnji pohod v Italijo. Tam so potem enote pod njegovim poveljstvom
                     po več zaporednih zmagah državljansko vojno odločile v Vepazijanovo korist.</p>
-                <p>Na začetku 2. stoletja je bila 13. Dvojna legija prestavljena v Vindobono (dan.
+                <p style="text-align:justify;">Na začetku 2. stoletja je bila 13. Dvojna legija prestavljena v Vindobono (dan.
                     Dunaj), legijski tabor pa opuščen. Po odhodu legije je Trajan povzdignil rimsko
-                    naselbino ob Dravi v kolonijo z imenom Colonia Ulpia Traiana Poetovio, sledilo
+                    naselbino ob Dravi v kolonijo z imenom <hi rend="italic">Colonia Ulpia Traiana Poetovi</hi>o, sledilo
                     je priseljevanje italskih kolonistov in vojaških veteranov. Z napisov vemo, da
-                    so ob častnem odpustu (honesta missio) legijski veterani prejeli odpravnino v
-                    denarju (missio nummaria) ali zemljiščih (missio agraria). Ker je na enem
-                    omenjena druga taka delitev (missio agraria secunda), vemo da sta bili vsaj
+                    so ob častnem odpustu (<hi rend="italic">honesta missio</hi>) legijski veterani prejeli odpravnino v
+                    denarju (<hi rend="italic">missio nummaria</hi>) ali zemljiščih (<hi rend="italic">missio agraria</hi>). Ker je na enem
+                    omenjena druga taka delitev (<hi rend="italic">missio agraria secunda</hi>), vemo da sta bili vsaj
                     dve.</p>
-                <p>Poleg pripadnikov obeh legij, ki sta bili več desetletij nameščeni v Petovioni,
+                <p style="text-align:justify;">Poleg pripadnikov obeh legij, ki sta bili več desetletij nameščeni v Petovioni,
                     se na napisih omenjajo tudi vojaki ali veterani drugih vojaških enot. Zaradi
                     strateške lege na oskrbovalni poti legij na donavski meji je bila prisotnost
                     manjših vojaških enot ob prehodu čez Dravo potrebna tudi pozneje, še posebej v
@@ -120,7 +124,8 @@
                     po uspešni oficirski karieri postal senator – kot prvi znan iz panonskega
                     prostora. Njemu posvečen napis iz Diane Veteranov (dan. Zana v Alžiriji) našteva
                     vse njegove civilne in vojaške službe, prav tako tudi odlikovanja, ki sta mu jih
-                    podelila oba omenjena cesarja: Marku Valeriju Maksimijanu, sinu cenzorja in
+                    podelila oba omenjena cesarja:</p>
+                <quote><hi rend="italic bold color(#ef3b39)">Marku Valeriju Maksimijanu, sinu cenzorja in
                     svečenika Marka Valerija Maksimijana, svečeniku kolonije Petovioncev, rimskemu
                     vitezu, prefektu 1. kohorte Tračanov, tribunu 1. kohorte Hamijcev, rimskih
                     državljanov, načelniku obalnih področij ljudstev Ponta Polemonijaka,
@@ -144,16 +149,16 @@
                     1. Italske legije, legatu 13. Dvojne legije, cesarskemu legatu [3. Avgustove
                     legije] s propretorskimi pooblastili, ki ga je odlikoval najplemenitejši vladar
                     Mark Avrelij Komod Avgust v drugi odpravi proti Germanom, (je dal postaviti)
-                    najodličnejši mestni svet Diane Veteranov z zbranim denarjem.</p>
-                <p>Da je z oddelki 2. Pomožne legije zares prezimil v Levgaricionu, kot je navedeno
+                    najodličnejši mestni svet Diane Veteranov z zbranim denarjem.</hi></quote>
+                <p style="text-align:justify;">Da je z oddelki 2. Pomožne legije zares prezimil v Levgaricionu, kot je navedeno
                     v zadnjem delu napisa, priča posvetilni napis boginji Viktoriji, vklesan v živo
                     skalo v dan. Trenčinu na Slovaškem, globoko nad rimsko severno mejo na Donavi:
-                    Victoriae / Augustoru(m) / exercitus qui Lau-/garicione sedit, mil(ites) /
-                    l(egionis) II DCCCLV. / [M. Valerius Maxim]ian(u)s leg( atus) leg(ionis) II
-                    Ad(iutricis) cur(avit) f(aciendum). Viktoriji (obeh) cesarjev, vojska, ki je
+                </p><quote><hi rend="italic bold color(#ef3b39)">Victoriae / Augustoru(m) / exercitus qui Lau-/garicione sedit, mil(ites) /
+                    l(egionis) II DCCCLV. / [M. Valerius Maxim]ian(u)s leg(atus) leg(ionis) II
+                    Ad(iutricis) cur(avit) f(aciendum).</hi><milestone unit="section" n="***"/><hi rend="italic bold color(#ef3b39)">Viktoriji (obeh) cesarjev, vojska, ki je
                     taborila v Levgaricioni, 855 vojakov 2. legije. Mark Valerij Maksimijan, legat
-                    2. Pomožne legije, je poskrbel za izvedbo.</p>
-                <p>Večjo prisotnost vojaških enot je na območju Ptuja dokumentirana tudi v obdobju
+                    2. Pomožne legije, je poskrbel za izvedbo.</hi></quote>
+                <p style="text-align:justify;">Večjo prisotnost vojaških enot je na območju Ptuja dokumentirana tudi v obdobju
                     t. i. vojaških cesarjev v sredini in drugi polovici 3. stoletja. Pod cesarjem
                     Galijenom, ki je vladal v letih od 253 do 268, so bili v Petovioni nameščeni
                     tudi močni oddelki dačanskih legij, 13. Dvojne in 5. Makedonske, ki so posvetili
@@ -165,7 +170,7 @@
                 <figure xml:id="figure-1" rend="imageviewer">
                     <graphic url="exh01-rimDipl-pano1-image01.jpg"/>
                     <graphic url="exh01-rimDipl-pano1-image01-normal.jpg"/>
-                    <head>Slika 1: Ptuj (Poetovio); obseg rimskodobne poselitve</head>
+                    <head>Slika 1: Ptuj (<hi rend="italic">Poetovio</hi>); obseg rimskodobne poselitve</head>
                 </figure>
                 <figure xml:id="figure-2" rend="imageviewer">
                     <graphic url="exh01-rimDipl-pano1-image02.jpg"/>
@@ -175,18 +180,18 @@
                 <figure xml:id="figure-3" rend="imageviewer">
                     <graphic url="exh01-rimDipl-pano1-image03.jpg"/>
                     <graphic url="exh01-rimDipl-pano1-image03-normal.jpg"/>
-                    <head>Slika 3: Nagrobna stela za častno odpuščenega vojaka 8. Avgustove legije
-                        (PMPO RL 945) -----] / missic(io) [mil(iti) leg(ionis)] / VIII Aug(ustae) /
-                        here(des) posier(unt). … častno odpuščenemu vojaku 8. Avgustove legije so
+                    <head>Slika 3: Nagrobna stela za častno odpuščenega vojaka 8. Avgustove legije 
+                        (PMPO RL 945) <hi rend="italic">-----] / missic(io) [mil(iti) leg(ionis)] / VIII Aug(ustae) /
+                        here(des) posier(unt)</hi>. ... častno odpuščenemu vojaku 8. Avgustove legije so
                         postavili dediči.</head>
                 </figure>
                 <figure xml:id="figure-4" rend="imageviewer">
                     <graphic url="exh01-rimDipl-pano1-image04.jpg"/>
                     <graphic url="exh01-rimDipl-pano1-image04-normal.jpg"/>
                     <head>Slika 4: Nagrobna stela za Marka Petronija Klasika, stotnika 8. Avgustove
-                        legije (PMPO RL 945) M(arcus) Petronius / M(arci) f(ilius) Arn(iensis)
+                        legije (PMPO RL 945) <hi rend="italic">M(arcus) Petronius / M(arci) f(ilius) Arn(iensis)
                         Classi/ cus Marrucinus / (centurio) leg(ionis) VIII Aug(ustae) / hic est
-                        crematus / ossa relata domi. / P(ublius) frater et con/lega posui(t). Mark
+                        crematus / ossa relata domi. / P(ublius) frater et con/lega posui(t).</hi> Mark
                         Petronij Klasik, Markov sin, iz volilnega okrožja Arnienze, Marucinec,
                         stotnik 8. Avgustove legije je bil tu sežgan, kosti so bile prenesene domov.
                         Publij, brat in kolega, je dal postaviti (ta spomenik).</head>
@@ -195,23 +200,23 @@
                     <graphic url="exh01-rimDipl-pano1-image05.jpg"/>
                     <graphic url="exh01-rimDipl-pano1-image05-normal.jpg"/>
                     <head>Slika 5: Nagrobna stela Kornelija Prokula, vojaka 13. Dvojne legije (PMPO
-                        RL 56) C(aius) Cornelius / C(ai) f(ilius) Pollia Proculus / Regio mil(es)
+                        RL 56) <hi rend="italic">C(aius) Cornelius / C(ai) f(ilius) Pollia Proculus / Regio mil(es)
                         leg(ionis) XIII / gem(inae) an(norum) XXX stip(endiorum) XII /
-                        benefici(a)rius / tribuni / h(ic) s(itus) e(st). H(eres) p(osuit). Gaj
+                        benefici(a)rius / tribuni / h(ic) s(itus) e(st). H(eres) p(osuit).</hi> Gaj
                         Kornelij Prokul, Gajev sin, iz Regione, vojak 13. Dvojne legije, po 30 letih
                         vojaške službe, po 12 letih služenja kot tribunov beneficiarij, je bil tukaj
                         pokopan. Postavil dedič.</head>
                 </figure>
             </div>
             <div type="chapter" xml:id="exh01-ch02">
-                <head>Rimska vojaška diploma z Vičave na Ptuju</head>
-                <p>Ob zaščitnih arheoloških izkopavanjih Centra za preventivno arheologijo (ZVKDS)
+                <head rend="color(#ef3b39)">Rimska vojaška diploma z Vičave na Ptuju</head>
+                <p style="text-align:justify;">Ob zaščitnih arheoloških izkopavanjih Centra za preventivno arheologijo (ZVKDS)
                     na prostoru nekdanje vojašnice na Vičavi na Ptuju, v neposredni bližini
                     domnevnega petovionskega foruma, je bil leta 2011 v plasteh datiranih od konca
                     1. do sredine 2. stoletja (faza 3, SE 1259), odkrit kos bronaste plošče z
                     ostanki petih vrstic napisa, ki kaže na to, da gre za odlomek rimske vojaške
                     diplome.</p>
-                <p>Plošča je nepravilne romboidne oblike in odlomljena na vseh štirih stranicah.
+                <p style="text-align:justify;">Plošča je nepravilne romboidne oblike in odlomljena na vseh štirih stranicah.
                     Zaradi močne preperelosti so črke razpoznavne le na eni ploskvi, medtem ko jih
                     je na drugi mogoče le slutiti. Stran z ohranjenimi črkami predstavlja bodisi
                     zunanjo stran prve od dveh plošč, ki sta sestavljali diplomo, ali pa notranjo
@@ -221,28 +226,28 @@
                     imen naštetih enot, ki jih ni mogoče natančneje določiti. Največja širina plošče
                     znaša 4,3 cm, največja višina 3,5 cm, debelina pa ok. 0,2 cm. Višina črk varira
                     med 0,4 in 0,5 cm.</p>
-                <p>Na manjkajočem začetnem delu je bila navedena titulatura cesarja, ki je izdal
-                    odlok (constitutio) o podelitvi državljanskih in drugih pravic, nato pa imena
+                <p style="text-align:justify;">Na manjkajočem začetnem delu je bila navedena titulatura cesarja, ki je izdal
+                    odlok (<hi rend="italic">constitutio</hi>) o podelitvi državljanskih in drugih pravic, nato pa imena
                     vojaških enot, katerih pripadnikom so bili istočasno podeljeni ti privilegiji. V
                     prvi ohranjeni vrstici je del imena neke vojaške pomožne enote, ki so jo
                     sestavljali veterani – vojaki, ki so imeli za sabo že več kot 25 let službe. V
                     drugi vrstici je ohranjen del imena namestnika province Zgornje Mezije Julija
                     Kandida, ki je to funkcijo opravljal okvirno v letih 96–100. V tretji vrstici je
-                    ohranjen del običajne formule z omembo častnega odpusta (honesta missio), v
-                    četrti podelitev rimskega državljanstva (civitas), v zadnji pa del obrazca o
-                    podelitvi pravice do sklenitve polnopravne zakonske zveze (conubium). V
+                    ohranjen del običajne formule z omembo častnega odpusta (<hi rend="italic">honesta missio</hi>), v
+                    četrti podelitev rimskega državljanstva (<hi rend="italic">civitas</hi>), v zadnji pa del obrazca o
+                    podelitvi pravice do sklenitve polnopravne zakonske zveze (<hi rend="italic">conubium</hi>). V
                     besedilu, ki je sledilo spodaj, so bili navedeni še: datacija z imeni konzulov,
                     ime enote, v kateri je služboval prejemnik diplome, ime njenega poveljnika,
                     osebno ime prejemnika diplome in njegov položaj v vojski, izjava, da je besedilo
                     prepisano z bronaste plošče, pritrjene na zunanji steni neke javne zgradbe v
                     Rimu, in imena sedmih prič, ki so potrjevale, da je prepis istoveten z besedilom
                     izvirne cesarske konstitucije.</p>
-                <p>Med do sedaj znanimi in objavljenimi rimskimi diplomami ni nobene z enakim ali
+                <p style="text-align:justify;">Med do sedaj znanimi in objavljenimi rimskimi diplomami ni nobene z enakim ali
                     podobno urejenim besedilom, ki bi bila izdana na podlagi iste cesarjeve
-                    konstitucije (constitutio principis), zato temelji zgornja dopolnitev na
+                    konstitucije (<hi rend="italic">constitutio principis</hi>), zato temelji zgornja dopolnitev na
                     besedilu drugih diplom iz približno istega obdobja in standardiziranih obrazcih,
                     ki so se spreminjali šele skozi daljše časovno obdobje.</p>
-                <p>Prejemnik diplome, ki je najverjetneje sodeloval tudi v dačanskih vojnah pod
+                <p style="text-align:justify;">Prejemnik diplome, ki je najverjetneje sodeloval tudi v dačanskih vojnah pod
                     Domicijanom, je bil častno odpuščen med namestništvom Julija Kandida v Spodnji
                     Meziji, morda še za časa kratke vladavine cesarja Nerve (96–98) ali že v času
                     Trajana, ki je Petoviono povzdignil v kolonijo in naselil koloniste iz Italije
@@ -253,25 +258,25 @@
                     <graphic url="exh01-rimDipl-pano2-image06-normal.jpg"/>
                     <head>Slika 6: Okrašena nožnica meča (PMPO)</head>
                 </figure>
-                <figure xml:id="figure-7" rend="imageviewer">
-                    <graphic url="exh01-rimDipl-pano2-image07.jpg"/>
-                    <graphic url="exh01-rimDipl-pano2-image07-normal.jpg"/>
-                    <head>Slika 7: Odlomek vojaške diplome z Vičave na Ptuju Razbrati in deloma
-                        dopolniti je mogoče naslednje besedilo: ]M VETERAN[ ]VB IVLIO CAND[ ]NESTA
-                        MISSI[ ]ITATEM DED[ 5 ]C HABVISSE[ [Imp. Caes(ar) --- / equitibus et
+                <figure xml:id="figure-7">
+                    <graphic url="exh01-rimDipl-pano2-image07.jpg"/><!--
+                    <graphic url="exh01-rimDipl-pano2-image07-normal.jpg"/>-->
+                    <head><hi rend="bold">Odlomek vojaške diplome z Vičave na Ptuju</hi><lb/> Razbrati in deloma
+                        dopolniti je mogoče naslednje besedilo: <hi rend="italic"><lg><l>]M VETERAN[</l> <l>]VB IVLIO CAND[</l> <l>]NESTA
+                        MISSI[</l> <l>]ITATEM DED[</l> <l>5 ]C HABVISSE[</l></lg> [Imp. Caes(ar) --- / equitibus et
                         peditibus qui militant in alis --- et cohortibus --- quae / apellantur ---
                         et --- -u]m vetera[ na et --- et quae sunt in / Moesia Superiore s]ub Iulio
                         Cand[ido stipendiis / emeritis dimissis ho]nesta miss[ione ipsis liberis /
                         posterisque eorum civ]itatem ded[it et conubium / cum uxoribus quas tun]c
                         habuisse[nt cum est / civitas iis data aut si qui caelibes essent cum / iis
-                        quas postea duxissent, dum taxat singuli / singulas. ------] Prevod
+                        quas postea duxissent, dum taxat singuli / singulas. ------]</hi><lb/><lb/> Prevod
                         dopolnjenega besedila: Imperator Cezar … je podelil konjenikom in pešakom,
                         ki služijo v (število) alah in (število) kohortah, ki se imenujejo … in … (z
-                        vzdevkom) veteranska … in ki so nameščene v Zgornji Meziji pod poveljstvom
-                        Julija Kandida, po 25 ali več letih službe, častno odpuščenim, katerih imena
-                        so zapisana spodaj, njim samim, njihovim otrokom in potomcem, državljanstvo
+                        vzdevkom) <hi rend="bold italic">veteranska</hi> … in ki so nameščene v Zgornji Meziji pod poveljstvom
+                        <hi rend="italic bold">Julija Kandida</hi>, po 25 ali več letih službe, <hi rend="italic bold">častno odpuščenim</hi>, katerih imena
+                        so zapisana spodaj, njim samim, njihovim otrokom in potomcem, <hi rend="italic bold">državljanstvo</hi>
                         in pravico do sklenitve polnopravne zakonske zveze (conubium) z ženami, ki
-                        so jih imeli takrat, ko jim je bilo državljanstvo podeljeno, ali če so bili
+                        so jih <hi rend="italic bold">imeli takrat</hi>, ko jim je bilo državljanstvo podeljeno, ali če so bili
                         samski, s tistimi, s katerimi se bodo poročili kasneje, vendar vsak samo z
                         eno …</head>
                 </figure>
@@ -312,8 +317,8 @@
                 </figure>
             </div>
             <div type="chapter" xml:id="exh01-ch03">
-                <head>Kaj so rimske vojaške diplome?</head>
-                <p>Vojaška diploma (ang. military diploma, nem. Militärdiplome) je moderno
+                <head rend="color(#ef3b39)">Kaj so rimske vojaške diplome?</head>
+                <p style="text-align:justify;">Vojaška diploma (ang. military diploma, nem. Militärdiplome) je moderno
                     poimenovanje za dve z žico povezani bronasti plošči (v neke vrste diptih) z
                     dvakratnim (zunaj – extrinsecus in znotraj – intus) prepisom cesarskega dekreta
                     oz. konstitucije (constituo principis) o podelitvi privilegijev določenim
@@ -322,14 +327,14 @@
                     (civitas Romana) in pravico do polnopravne zakonske zveze (conubium). Ta dva
                     privilegija sta posameznikom brez državljanstva, njihovim ženam in potomcem
                     omogočila vzpon po družbeni lestvici.</p>
-                <p>Izvirne cesarske konstitucije, na podlagi katerih so bili podeljevani omenjeni
+                <p style="text-align:justify;">Izvirne cesarske konstitucije, na podlagi katerih so bili podeljevani omenjeni
                     privilegiji, so v Rimu zapisali na bronaste plošče in jih pritrdili na zid ene
                     od javnih zgradb. To mesto je bilo potem na kopijah tudi navedeno z obrazcem
                     "prepisano in overjeno z bronaste plošče, ki je pritrjena v Rimu na steno …" Od
                     ok. leta 90 naprej je bil za namen uporabljen nek zid za Avgustovim templjem v
                     smeri proti svetišču Minerve, kar so na diplomah zapisali takole: … in muro post
                     templum Augusti ad Minervam.</p>
-                <p>Diplome so po 25 ali več letih službovanja prejeli vojaki pomožnih konjeniških
+                <p style="text-align:justify;">Diplome so po 25 ali več letih službovanja prejeli vojaki pomožnih konjeniških
                     ali pehotnih enot (al in kohort), potem vojaki nekaterih posebnih vojaških
                     formacij (numeri, veksilacije, pretorijanska garda, cesarska osebna straža) in
                     pripadniki rimske mornarice (classis), nekateri med njimi le konubij, če so
@@ -341,7 +346,7 @@
                     podeli le tistim, ki ga do takrat še niso imeli. V večini primerov so bili
                     podeljeni privilegiji več enotam hkrati, zato lahko na diplomah najdemo tudi do
                     dvajset ali več različnih vojaških enot.</p>
-                <p>Diplome so izdelovali za vsakega vojaka posebej (ad personam) izključno v
+                <p style="text-align:justify;">Diplome so izdelovali za vsakega vojaka posebej (ad personam) izključno v
                     centralnem uradu v Rimu, zato so bile po obliki zelo enotne, posebej tiste
                     izdane na podlagi iste cesarske konstitucije. Njihovo besedilo se je razlikovalo
                     praviloma le v tistih podatkih, ki so zadevali posameznika, pri njegovem imenu,
@@ -356,7 +361,7 @@
                     so potrjevale istovetnost z besedilom na izvirniku v Rimu. Ko je bila diploma
                     enkrat zapečatena, je za branje ni bilo treba ponovno odpirati in uničiti žigov,
                     saj je bilo celotno besedilo konstitucije dostopno na zunanjih straneh.</p>
-                <p>Od sredine 1. st., ko so v dobi cesarja Klavdija začeli izdajati diplome, do
+                <p style="text-align:justify;">Od sredine 1. st., ko so v dobi cesarja Klavdija začeli izdajati diplome, do
                     obdobja tetrarhije, ko so posamezne še vedno izdajali, naj bi bilo izdanih ok.
                     300.000 diplom. Danes jih poznamo čez 1000, v Rimu pa so se ohranili tudi
                     odlomki štirih izvirnih cesarskih konstitucij. Diploma, najdena na Ptuju, je
