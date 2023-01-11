@@ -400,6 +400,35 @@
                 </figure>
             </div>
         </body>
-        <back> </back>
+        <back>
+            <div type="appendix" xml:id="video">
+                <head>Rimska vojaška diploma iz Petovione (Ptuj) - <ref target="https://youtube.com/playlist?list=PLRtNtrQJTHOx3ARCzrQDesA7HzI2VAZvD">Seznam predvajanja</ref></head>    
+                <figure xml:id="video1">
+                    <head xml:id="video-1-head">Evgen Lazar, Milan Lovenjak RIMSKA VOJAŠKA DIPLOMA Z VIČAVE NA PTUJU</head>
+                    <media url="https://youtu.be/rGDT3TPSC3Q" mimeType="video/x-youtube"/>
+                </figure>
+                <figure xml:id="video2">
+                    <head xml:id="video-2-head">Ivan Tušek RIMSKA VOJSKA</head>
+                    <media url="https://youtu.be/PwuOQ0lmkt4" mimeType="video/x-youtube"/>
+                </figure>
+                <figure xml:id="video3">
+                    <head xml:id="video-3-head">Milan Lovenjak RIMSKI NAGROBNIKI S PTUJA</head>
+                    <media url="https://youtu.be/xAhf12GiFGk" mimeType="video/x-youtube"/>
+                </figure>
+                <figure xml:id="video4">
+                    <head xml:id="video-4-head">Mojca Vomer Gojkovič TRETJI MITREJ NA PTUJU</head>
+                    <media url="https://youtu.be/T-5Q1R-zz4M" mimeType="video/x-youtube"/>
+                </figure>
+                <figure xml:id="video5">
+                    <head xml:id="video-5-head">Milan Lovenjak TACITOVO POROČILO O POSVETU POVELJNIKOV PANONSKIH LEGIJ AVGUSTA 69 V PETOVIONI</head>
+                    <media url="https://youtu.be/DyscomiHSl0" mimeType="video/x-youtube"/>
+                </figure>
+                <figure xml:id="video6">
+                    <head xml:id="video-6-head">Milan Lovenjak RAZSTAVA OB 1950 LETNICI VOJAŠKEGA POSVETA V PETOVIONI</head>
+                    <media url="https://youtu.be/-F0pCactuMA" mimeType="video/x-youtube"/>
+                </figure>
+                
+            </div>
+        </back>
     </text>
 </TEI>
