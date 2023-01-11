@@ -30,9 +30,13 @@
                     <name>Tamara Korošec</name>
                 </respStmt>
                 <respStmt>
-                    <resp>Priprava:</resp>
+                    <resp>Priprava</resp>
                     <name>Milan Lovenjak</name>
                     <name>Peter Mikša</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI kodiranje in HTML postavitev</resp>
+                    <name>Mihael Ojsteršek</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
