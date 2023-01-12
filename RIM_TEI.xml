@@ -71,7 +71,7 @@
                         100-letnici Filozofske fakultete in Oddelka za zgodovino</titlePart>
                 </docTitle>
                 <docAuthor/>
-                <graphic url="exh01-rimDipl-pano3-image16-cover.jpg"></graphic>
+                <graphic url="exh01-rimDipl-pano2-image07-cover.jpg"></graphic>
                 <docDate/>
                 <docImprint>
                     <pubPlace>Ljubljana</pubPlace>
@@ -262,7 +262,7 @@
                     <graphic url="exh01-rimDipl-pano2-image06-normal.jpg"/>
                     <head>Slika 6: Okrašena nožnica meča (PMPO)</head>
                 </figure>
-                <figure xml:id="figure-7">
+                <figure xml:id="figure-7" rend="imageviewer">
                     <graphic url="exh01-rimDipl-pano2-image07.jpg"/><!--
                     <graphic url="exh01-rimDipl-pano2-image07-normal.jpg"/>-->
                     <head><hi rend="bold">Odlomek vojaške diplome z Vičave na Ptuju</hi><lb/> Razbrati in deloma
